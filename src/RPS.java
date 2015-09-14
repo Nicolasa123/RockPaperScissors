@@ -7,7 +7,7 @@ public class RPS {
 	public static void main(String[] args) {
 		GameLogic gameLogic = new GameLogic();
 		
-		System.out.println("Greetings, welcome to the Rock Paper Scissors game - the Nicola Owen edition. Banned in 31 states for brutality..");
+		System.out.println("Greetings, welcome to the Rock Paper Scissors game - the Nicola Owen edition. ");
 		
 		System.out.println("Press 1 for Player vs Computer.");
 		System.out.println("Press 2 for Computer vs Computer");
